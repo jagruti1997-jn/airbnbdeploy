@@ -7,9 +7,9 @@ import {BrowserRouter,Route,Routes} from 'react-router-dom'
 function App() {
   return (
    <>
-   <BrowserRouter>
+   <BrowserRouter basename="/airbnbdeploy">
    <Routes>
-    <Route path="/" element={<Home/>}></Route>
+    <Route path="/airbnbdeploy" element={<Home/>}></Route>
    </Routes>
    </BrowserRouter>
    

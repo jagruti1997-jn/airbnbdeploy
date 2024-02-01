@@ -37,23 +37,23 @@ export default function Cards2() {
     const value="Show all".toLocaleLowerCase()
     const data = [
         {
-            img: "/images/imgv1.jpg",
+            img: "https://a0.muscache.com/im/pictures/58819d01-2a71-441d-b3bc-baae0cd64da1.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price: "From $365/per person"
         }, {
-            img: "/images/imgv2.jpg",
+            img: "https://a0.muscache.com/im/pictures/58819d01-2a71-441d-b3bc-baae0cd64da1.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price:"From $365/per person"
         }, 
         {
-            img: "/images/imgv6.jpg",
+            img:"https://a0.muscache.com/im/pictures/58819d01-2a71-441d-b3bc-baae0cd64da1.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price: "From $365/per person"
         }, {
-            img: "/images/imgv5.jpg",
+            img:"https://a0.muscache.com/im/pictures/58819d01-2a71-441d-b3bc-baae0cd64da1.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price:"From $365/per person"
@@ -80,12 +80,12 @@ export default function Cards2() {
             Price:"From $365/per person"
         },
         {
-            img: "/images/imgv6.jpg",
+            img: "https://a0.muscache.com/im/pictures/2fe40f4f-5ea3-432f-9fbd-e2ce3c6c3855.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price: "From $365/per person"
         }, {
-            img: "/images/imgv5.jpg",
+            img: "https://a0.muscache.com/im/pictures/2fe40f4f-5ea3-432f-9fbd-e2ce3c6c3855.jpg?im_w=1440",
             rating:"4.59 (3,3337).Czech Republic",
             desc:"Most popular around the world",
             Price:"From $365/per person"
